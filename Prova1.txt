@@ -3,6 +3,5 @@ var element = 2
 var element2 = 4
 var element3 = 6
 System.out.println("la suma es: " + element + element2 + element3);
-System.out.println("la resta es: " + element3 - element2 - element);
 System.out.println("la multiplicacion es: " + element * element2 * element3);
 }
